@@ -1,0 +1,27 @@
+.main_title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.main_block {
+  display: flex;
+  justify-content: space-between;
+}
+.blocks {
+  text-align: center;
+}
+
+.blocks img {
+  margin-bottom: 30px;
+}
+
+.predl {
+  color: grey;
+  padding: 100px;
+  margin-top: -90px;
+}
+
+.blocks {
+  text-align: center;
+}
